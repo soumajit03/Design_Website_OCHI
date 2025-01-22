@@ -1,10 +1,14 @@
 # React + Vite
 Before running the website install vite in vs code terminal 
 
-using              npm i vite
+using          
+
+npm i vite
 
 
-then run           npm run dev 
+then run          
+
+npm run dev 
 
 
 ![Screenshot 2025-01-22 235521](https://github.com/user-attachments/assets/fc7c3ab6-fe4e-49ac-b1a3-56a16302194c)
